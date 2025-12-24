@@ -1,7 +1,7 @@
 {
   "name": "starter-client",
+  "homepage": "https://samfarias.github.io/Full-Stack-CRUD-Application-client-front-end",
   "version": "0.1.0",
-  "homepage": "samfarias.github.io",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.8.3",
