@@ -9,7 +9,7 @@ const axios = require('axios'); // Import axios for API calls
 // Automatically choose base URL: local OR production
 const API_BASE =
   process.env.NODE_ENV === "production"
-    ? "https://back-end-campus-management-system.onrender.com"
+    ? "https://back-end-campus-management-system.onrender.com/api"
     : "http://localhost:5001/api";
 
 
