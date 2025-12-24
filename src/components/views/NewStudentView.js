@@ -94,19 +94,28 @@ const NewStudentView = ({ onSubmit, allCampuses }) => {//new student view compon
   };
 
   const handleSubmit = (e) => {//validates all fields on submit 
-    e.preventDefault();
+  e.preventDefault();
 
-    const newErrors = {};
-    Object.entries(formData).forEach(([key, value]) => {
-      const error = validate(key, value);
-      if (error) newErrors[key] = error;
-    });
+  const newErrors = {};
+  Object.entries(formData).forEach(([key, value]) => {
+    const error = validate(key, value);
+    if (error) newErrors[key] = error;
+  });
 
-    setErrors(newErrors);
-    if (Object.keys(newErrors).length > 0) return;
+  setErrors(newErrors);
+  if (Object.keys(newErrors).length > 0) return;
 
-    onSubmit(formData); // submit validated data 
-  };
+  // Remove empty fields before submitting
+  const studentData = { ...formData };
+  if (!studentData.imageUrl || studentData.imageUrl.trim() === "") {
+    delete studentData.imageUrl;
+  }
+  if (!studentData.campusId || studentData.campusId === "") {
+    delete studentData.campusId;
+  }
+
+  onSubmit(studentData); // submit validated data 
+};
 
   return (
     <div>
