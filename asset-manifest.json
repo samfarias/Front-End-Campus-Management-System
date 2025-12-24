@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Full-Stack-CRUD-Application-client-front-end/static/css/main.1d68b08e.chunk.css",
-    "main.js": "/Full-Stack-CRUD-Application-client-front-end/static/js/main.29475818.chunk.js",
-    "main.js.map": "/Full-Stack-CRUD-Application-client-front-end/static/js/main.29475818.chunk.js.map",
-    "runtime-main.js": "/Full-Stack-CRUD-Application-client-front-end/static/js/runtime-main.95bc25ed.js",
-    "runtime-main.js.map": "/Full-Stack-CRUD-Application-client-front-end/static/js/runtime-main.95bc25ed.js.map",
-    "static/js/2.bbb8ad1e.chunk.js": "/Full-Stack-CRUD-Application-client-front-end/static/js/2.bbb8ad1e.chunk.js",
-    "static/js/2.bbb8ad1e.chunk.js.map": "/Full-Stack-CRUD-Application-client-front-end/static/js/2.bbb8ad1e.chunk.js.map",
-    "static/js/3.bc3be7a7.chunk.js": "/Full-Stack-CRUD-Application-client-front-end/static/js/3.bc3be7a7.chunk.js",
-    "static/js/3.bc3be7a7.chunk.js.map": "/Full-Stack-CRUD-Application-client-front-end/static/js/3.bc3be7a7.chunk.js.map",
-    "index.html": "/Full-Stack-CRUD-Application-client-front-end/index.html",
-    "static/css/main.1d68b08e.chunk.css.map": "/Full-Stack-CRUD-Application-client-front-end/static/css/main.1d68b08e.chunk.css.map",
-    "static/js/2.bbb8ad1e.chunk.js.LICENSE.txt": "/Full-Stack-CRUD-Application-client-front-end/static/js/2.bbb8ad1e.chunk.js.LICENSE.txt"
+    "main.css": "/Front-End-Campus-Management-System/static/css/main.1d68b08e.chunk.css",
+    "main.js": "/Front-End-Campus-Management-System/static/js/main.29475818.chunk.js",
+    "main.js.map": "/Front-End-Campus-Management-System/static/js/main.29475818.chunk.js.map",
+    "runtime-main.js": "/Front-End-Campus-Management-System/static/js/runtime-main.8c96ca52.js",
+    "runtime-main.js.map": "/Front-End-Campus-Management-System/static/js/runtime-main.8c96ca52.js.map",
+    "static/js/2.bbb8ad1e.chunk.js": "/Front-End-Campus-Management-System/static/js/2.bbb8ad1e.chunk.js",
+    "static/js/2.bbb8ad1e.chunk.js.map": "/Front-End-Campus-Management-System/static/js/2.bbb8ad1e.chunk.js.map",
+    "static/js/3.bc3be7a7.chunk.js": "/Front-End-Campus-Management-System/static/js/3.bc3be7a7.chunk.js",
+    "static/js/3.bc3be7a7.chunk.js.map": "/Front-End-Campus-Management-System/static/js/3.bc3be7a7.chunk.js.map",
+    "index.html": "/Front-End-Campus-Management-System/index.html",
+    "static/css/main.1d68b08e.chunk.css.map": "/Front-End-Campus-Management-System/static/css/main.1d68b08e.chunk.css.map",
+    "static/js/2.bbb8ad1e.chunk.js.LICENSE.txt": "/Front-End-Campus-Management-System/static/js/2.bbb8ad1e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.95bc25ed.js",
+    "static/js/runtime-main.8c96ca52.js",
     "static/js/2.bbb8ad1e.chunk.js",
     "static/css/main.1d68b08e.chunk.css",
     "static/js/main.29475818.chunk.js"
